@@ -13,8 +13,8 @@ namespace NickGenerator
        public char GetG()
         {
             
-            int a =rnd.Next(1,Golosny.Length);
-            return(Golosny[a]);
+            int Aa =rnd.Next(1,Golosny.Length);
+            return(Golosny[Aa]);
         }
 
         public char GetP()
