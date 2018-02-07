@@ -1,0 +1,11 @@
+C:\Users\Olex\source\repos\NickGenerator\NickGenerator\bin\Debug\netcoreapp2.0\NickGenerator.deps.json
+C:\Users\Olex\source\repos\NickGenerator\NickGenerator\bin\Debug\netcoreapp2.0\NickGenerator.runtimeconfig.json
+C:\Users\Olex\source\repos\NickGenerator\NickGenerator\bin\Debug\netcoreapp2.0\NickGenerator.runtimeconfig.dev.json
+C:\Users\Olex\source\repos\NickGenerator\NickGenerator\bin\Debug\netcoreapp2.0\NickGenerator.dll
+C:\Users\Olex\source\repos\NickGenerator\NickGenerator\bin\Debug\netcoreapp2.0\NickGenerator.pdb
+C:\Users\Olex\source\repos\NickGenerator\NickGenerator\obj\Debug\netcoreapp2.0\NickGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Olex\source\repos\NickGenerator\NickGenerator\obj\Debug\netcoreapp2.0\NickGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Olex\source\repos\NickGenerator\NickGenerator\obj\Debug\netcoreapp2.0\NickGenerator.AssemblyInfoInputs.cache
+C:\Users\Olex\source\repos\NickGenerator\NickGenerator\obj\Debug\netcoreapp2.0\NickGenerator.AssemblyInfo.cs
+C:\Users\Olex\source\repos\NickGenerator\NickGenerator\obj\Debug\netcoreapp2.0\NickGenerator.dll
+C:\Users\Olex\source\repos\NickGenerator\NickGenerator\obj\Debug\netcoreapp2.0\NickGenerator.pdb
